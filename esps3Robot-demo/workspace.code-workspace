@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\esps3Robot-mini-LP"
+		},
+		{
+			"path": "..\\lvgl_remote_s3"
+		},
+		{
+			"path": "..\\lvgl_remote_s3_test"
+		},
+		{
+			"path": "..\\speech_rec_medium_last"
+		},
+		{
+			"path": "..\\speech_rec_medium"
+		},
+		{
+			"path": "..\\esps3Robot-mini-baibi"
+		},
+		{
+			"path": "..\\esps3Robot-mini-nkdx"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Espressif5\\frameworks\\esp-idf-v5.0.1\\examples\\esp32s3_lvgl_4.3inch_RGB"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Espressif5\\frameworks\\esp-idf-v5.0.1\\examples\\S3RemoteRGB"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"ui_helpers.h": "c",
+			"lv_port_indev.h": "c",
+			"jpegdecoder.h": "c",
+			"drive.h": "c",
+			"func.h": "c",
+			"lv_port_disp.h": "c",
+			"adcraw.h": "c",
+			"disp_driver.h": "c",
+			"touch_driver.h": "c",
+			"bsp_i2c.h": "c"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+COMPONENT_ADD_INCLUDEDIRS := include
+LIBS := esp32s3_soc
+COMPONENT_ADD_LDFLAGS := $(COMPONENT_PATH)/lib/libesp32s3_soc.a
+COMPONENT_ADD_LINKER_DEPS := $(patsubst %,$(COMPONENT_PATH)/lib/lib%.a,$(LIBS))
