@@ -2,7 +2,7 @@ S3RemoteRGB-demo 的编译环境为IDF5.1
 
 IDF下载地址：https://dl.espressif.cn/dl/esp-idf/?idf=4.4
 
-1.  CPU选择ESP32S3-N4R2
+1.  CPU选择ESP32S3-N8R8
 
 2.  下载程序和调试时需要拔除SD卡，部分IO与USB口共用，下载程序使用模块自带的USB串口
 
